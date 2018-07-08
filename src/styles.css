@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  padding: 12px;
+}
+
+.input {
+  margin: 10px;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.delete-button {
+  padding: 10px;
+  background-color: pink;
+  color: blueviolet;
+  margin: 15px;
+  cursor: pointer;
+  transition: 0.2s ease-out;
+}
+.delete-button:hover {
+  background-color: darkcyan;
+  color: #bbb;
+}
